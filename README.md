@@ -41,3 +41,7 @@ ANTHROPIC. Claude Opus 5.5. Set. 2026. [anthropic.com/claude-opus-5-5](https://w
 STACK OVERFLOW. 2025 Developer Survey: AI. 2025. [survey.stackoverflow.co/2025/ai](https://survey.stackoverflow.co/2025/ai)
 
 PRESSWORKS / VALOR ECONÔMICO (conteúdo patrocinado). IA aumenta produtividade no desenvolvimento de software, mas empresas ainda enfrentam gargalos de custo e revisão. 16 set. 2026. [valor.globo.com](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/16/ia-aumenta-produtividade-no-desenvolvimento-de-software-mas-empresas-ainda-enfrentam-gargalos-de-custo-e-revisao-1.ghtml)
+
+AFROZ, S.; FENG, Z.; MENEZES, T.; KIMURA, K.; TRINKENREICH, B.; STEINMACHER, I.; SARMA, A. The Fast and Spurious: Developer Productivity with GenAI. In: FSE Companion 2026. ACM, 2026. p. 1832–1841. [DOI: 10.1145/3803437.3806710](https://doi.org/10.1145/3803437.3806710). [Texto completo — versão consultada (v2)](https://arxiv.org/html/2510.24265v2).
+
+OPENAI. Aceleração da pesquisa: uma visão de dentro da OpenAI. 6 set. 2026. Publicação institucional. [Texto completo](https://openai.com/pt-BR/index/research-acceleration-view-inside-openai/).
