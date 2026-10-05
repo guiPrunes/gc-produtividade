@@ -2,11 +2,11 @@
 # _Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity_
 
 ## Resumo
-O artigo aborda sobre uma pesquisa realizada com um grupo de desenvolvedores experientes em LLM's no intuito atingir um parâmetro estatístico sobre o aumento  — ou não — da produtividade em tarefas com o auxílio de IA.
+O artigo aborda sobre uma pesquisa realizada com um grupo de desenvolvedores experientes em código aberto no intuito atingir um parâmetro estatístico sobre o aumento  — ou não — da produtividade em tarefas com o auxílio de IA.
 
 Os desenvolvedores que participaram da pesquisa possuiam elevada experiência tanto no desenvolvimento de software quanto nos repositórios os quais contribuiam ativamente. Os repositórios eram de código aberto e possuiam em média 23.000 estrelas no GitHub.
 
-Foram designadas 246 tarefas para o grupo de desenvolvedores intercalando entre atividades sem e com uso permitido de IA. A equipe responsável pela pesquisa forneceu LLM's em dois modelos, sendo eles em interfaces de usuário web — como Claude, ChatGPT — e em IDE's — como CursorPro —.
+Foram designadas 246 tarefas para o grupo de 16 desenvolvedores intercalando entre atividades sem e com uso permitido de IA. A equipe responsável pela pesquisa forneceu LLM's em dois modelos, sendo eles em interfaces de usuário web — como Claude, ChatGPT — e em IDE's — como CursorPro, o qual não eram tão experientes —.
 
 ## Estimativas
 
@@ -52,9 +52,9 @@ Em questão de tempo de implementação, em ambos os gráficos é possível obse
 
 ### Conclusão
 
-Por fim, a pesquisa concluiu que: ao permitir o uso de Inteligência Artificial como ferramenta de trabalho para os desenvolvedores, o tempo de implementação em tarefas/atividades se torna ***19% mais lento*** do que sem o uso da ferramenta, em média.
+Em suma, a pesquisa concluiu que: ao permitir o uso de Inteligência Artificial como ferramenta de trabalho para os desenvolvedores, o tempo de implementação em tarefas/atividades foi ***19% mais lento*** do que sem o uso da ferramenta, em média.
 
-Em outras palavras, utilizar IA para auxiliar em problemas acaba por ser menos eficiênte do que apenas solucionar os problemas por conta própria.
+Além disso, a equipe levantou possíveis fatores que podem ter contribuído para o resultado observado, sendo estes categorizados e agrupados na pesquisa. Esses fatores trazem hipóteses do que poderiam ou não ter afetado os resultados da pesquisa.
 
 ## Autores & Artigo
 Joel Becker, Nate Rush, Beth Barnes e David Rein.
