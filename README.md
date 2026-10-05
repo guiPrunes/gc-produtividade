@@ -45,3 +45,9 @@ PRESSWORKS / VALOR ECONÔMICO (conteúdo patrocinado). IA aumenta produtividade 
 AFROZ, S.; FENG, Z.; MENEZES, T.; KIMURA, K.; TRINKENREICH, B.; STEINMACHER, I.; SARMA, A. The Fast and Spurious: Developer Productivity with GenAI. In: FSE Companion 2026. ACM, 2026. p. 1832–1841. [DOI: 10.1145/3803437.3806710](https://doi.org/10.1145/3803437.3806710). [Texto completo — versão consultada (v2)](https://arxiv.org/html/2510.24265v2).
 
 OPENAI. Aceleração da pesquisa: uma visão de dentro da OpenAI. 6 set. 2026. Publicação institucional. [Texto completo](https://openai.com/pt-BR/index/research-acceleration-view-inside-openai/).
+
+FORSGREN, N.; STOREY, M.-A.; MADDILA, C.; ZIMMERMANN, T.; HOUCK, B.; BUTLER, J. The SPACE of Developer Productivity: There's more to it than you think. ACM Queue, v. 19, n. 1, p. 20–48, 2021. [microsoft.com/en-us/research](https://www.microsoft.com/en-us/research/publication/the-space-of-developer-productivity-theres-more-to-it-than-you-think/)
+
+DORA. Announcing the 2024 DORA report; Announcing the 2025 DORA Report. Google Cloud, 2024–2025. [2024](https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report) · [2025](https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report)
+
+METR. We are Changing our Developer Productivity Experiment Design. 24 fev. 2026. [metr.org/blog/2026-02-24-uplift-update](https://metr.org/blog/2026-02-24-uplift-update/)
