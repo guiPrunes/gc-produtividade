@@ -40,11 +40,11 @@ Após a coleta e a análise de dados, os pesquisadores puderam registrar grafica
 
 <h3 align="center"><em>Média prevista pelos desenvolvedores vs. Tempo de implementação observado</em></h3>
 
-![Gráfico 1](img/charts/grafico-razao-tempos.png)
+![Gráfico 1](../img/charts/grafico-razao-tempos.png)
 
 <h3 align="center"><em>Distribuição dos tempos de implementação observados</em></h3>  
 
-![Gráfico 2](img/charts/grafico-distribuicao-tempos.png)
+![Gráfico 2](../img/charts/grafico-distribuicao-tempos.png)
 
 > No primeiro gráfico, as comparações são realizadas na razão entre os tempos médios previstos e observados (tarefas com IA permitida versus com IA proibida). No segundo gráfico, os dados são apresentados em pontos de dispersão (cada ponto representando uma tarefa) e se estendem ao longo do tempo até a conclusão total das tarefas.
 
