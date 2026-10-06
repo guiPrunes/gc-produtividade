@@ -1,60 +1,60 @@
-## Sobre o artigo âncora
+## Sobre o artigo-âncora
 # _Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity_
 
 ## Resumo
-O artigo aborda sobre uma pesquisa realizada com um grupo de desenvolvedores experientes em código aberto no intuito atingir um parâmetro estatístico sobre o aumento  — ou não — da produtividade em tarefas com o auxílio de IA.
+O artigo aborda uma pesquisa realizada com um grupo de desenvolvedores experientes em código aberto com o intuito de estimar o aumento — ou não — da produtividade em tarefas com o auxílio de IA.
 
-Os desenvolvedores que participaram da pesquisa possuiam elevada experiência tanto no desenvolvimento de software quanto nos repositórios os quais contribuiam ativamente. Os repositórios eram de código aberto e possuiam em média 23.000 estrelas no GitHub.
+Os desenvolvedores que participaram da pesquisa possuíam elevada experiência tanto no desenvolvimento de software quanto nos repositórios nos quais contribuíam ativamente. Os repositórios eram de código aberto e possuíam, em média, 23.000 estrelas no GitHub.
 
-Foram designadas 246 tarefas para o grupo de 16 desenvolvedores intercalando entre atividades sem e com uso permitido de IA. A equipe responsável pela pesquisa forneceu LLM's em dois modelos, sendo eles em interfaces de usuário web — como Claude, ChatGPT — e em IDE's — como CursorPro, o qual não eram tão experientes —.
+Foram designadas 246 tarefas para o grupo de 16 desenvolvedores, sorteadas entre atividades sem e com uso permitido de IA. A equipe responsável pela pesquisa permitiu o uso de qualquer ferramenta de IA que os desenvolvedores preferissem, de duas formas principais: em interfaces web, como o ChatGPT, ou em IDEs, como o Cursor Pro. Como a maioria não tinha experiência prévia com o Cursor, a equipe ofereceu um treinamento básico.
 
 ## Estimativas
 
 ### Desenvolvedores
 Os desenvolvedores tiveram duas oportunidades de estimativa. 
 
-- **Estimativa 1:** Questionada ***antes*** das tarefas designadas pela equipe de pesquisa;
-- **Estimativa 2:** Questionada ***depois*** da conclusão de todas as tarefas designadas pela equipe de pesquisa.
+- **Estimativa 1:** Solicitada ***antes*** das tarefas designadas pela equipe de pesquisa;
+- **Estimativa 2:** Solicitada ***depois*** da conclusão de todas as tarefas designadas pela equipe de pesquisa.
 
 | Estimativa 1 | Estimativa 2 |
 | :------------: | :------------: |
-| 24% de diminuição no tempo de conclusão | 20% de diminuição no tempo de conclusão
+| 24% de diminuição no tempo de conclusão | 20% de diminuição no tempo de conclusão |
 
 ### Especialistas
 
-Foi contratada uma equipe de especialistas para realizar previsões sobre o percentual de aumento na produtividade com a utilização de modelos de linguagem (LLM).
+Foi solicitado a um conjunto de especialistas que realizassem previsões sobre o percentual de redução no tempo de conclusão com a utilização de modelos de linguagem (LLM).
 
 Os especialistas eram divididos em dois grupos: especialistas em Economia e especialistas em Machine Learning.
 
-A previsão percentual de aumento na produtividade obtida foi:
+A previsão percentual de redução no tempo de conclusão obtida foi:
  
 | Economia | Machine Learning | 
 | :------: | :---------------:|
-| 38% de diminuição no tempo de conclusão | 39% de diminuição no tempo de conclusão |
+| 39% de diminuição no tempo de conclusão | 38% de diminuição no tempo de conclusão |
 
 ## Resultados
 
 ### Gráficos 
 
-Após a coleta e a análise de dados, os pesquisadorem puderam registrar graficamente as comparações entre atividades realizadas com e sem IA.
+Após a coleta e a análise de dados, os pesquisadores puderam registrar graficamente as comparações entre atividades realizadas com e sem IA.
 
 <h3 align="center"><em>Média prevista pelos desenvolvedores vs. Tempo de implementação observado</em></h3>
 
-![Gráfico 1](img/charts/gráfico-razao-tempos.png)
+![Gráfico 1](img/charts/grafico-razao-tempos.png)
 
 <h3 align="center"><em>Distribuição dos tempos de implementação observados</em></h3>  
 
-![Gráfico 2](img/charts/gráfico-distribuicao-tempos.png)
+![Gráfico 2](img/charts/grafico-distribuicao-tempos.png)
 
-> No primeiro gráfico, as comparações são realizadas em razão entre os tempos estimados e reais observados com IA permitida sobre IA proibida. No segundo gráfico, os dados aparecem em pontos (cada ponto representando uma tarefa), e se estendem ao longo do tempo até a conclusão total das tarefas.
+> No primeiro gráfico, as comparações são realizadas na razão entre os tempos médios previstos e observados (tarefas com IA permitida versus com IA proibida). No segundo gráfico, os dados são apresentados em pontos de dispersão (cada ponto representando uma tarefa) e se estendem ao longo do tempo até a conclusão total das tarefas.
 
-Em questão de tempo de implementação, em ambos os gráficos é possível observar maior tempo necessário nas tarefas que foram permitidas ferramentas de IA.
+Quanto ao tempo de implementação, em ambos os gráficos é possível observar na maior parte da distribuição do tempo necessário nas tarefas em que o uso de IA foi permitido.
 
 ### Conclusão
 
-Em suma, a pesquisa concluiu que: ao permitir o uso de Inteligência Artificial como ferramenta de trabalho para os desenvolvedores, o tempo de implementação em tarefas/atividades foi ***19% mais lento*** do que sem o uso da ferramenta, em média.
+Em suma, a pesquisa concluiu que, ao permitir o uso de Inteligência Artificial como ferramenta de trabalho para os desenvolvedores, o tempo de implementação em tarefas foi ***19% maior*** do que sem o uso da ferramenta, em média.
 
-Além disso, a equipe levantou possíveis fatores que podem ter contribuído para o resultado observado, sendo estes categorizados e agrupados na pesquisa. Esses fatores trazem hipóteses do que poderiam ou não ter afetado os resultados da pesquisa.
+Além disso, a equipe levantou e categorizou possíveis fatores que podem ter contribuído para o resultado observado. Esses fatores fundamentam hipóteses sobre o que pode ou não ter afetado os resultados do estudo.
 
 ## Autores & Artigo
 Joel Becker, Nate Rush, Beth Barnes e David Rein.
